@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/kdf-21.12.1.tar.xz",
-                    "sha256": "d1727d9d69ab0a609d018e9c1178d4cf41dd41fad09b873adb0675d2aebb2fa4"
+                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kdf-21.12.3.tar.xz",
+                    "sha256": "a786e6f8f9aa64a240db6438254edbc0847037ed052289bb7757cd3e897f3e9d"
                 },
                 {
                     "type": "patch",
