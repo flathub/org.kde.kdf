@@ -23,7 +23,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kdf-21.12.3.tar.xz",
-                    "sha256": "a786e6f8f9aa64a240db6438254edbc0847037ed052289bb7757cd3e897f3e9d"
+                    "sha256": "a786e6f8f9aa64a240db6438254edbc0847037ed052289bb7757cd3e897f3e9d",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kdf-$version.tar.xz"
+                    }
                 },
                 {
                     "type": "patch",
