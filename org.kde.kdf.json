@@ -14,7 +14,6 @@
         "--filesystem=/run/media",
         "--device=all"
     ],
-
     "modules": [
         {
             "name": "kdf",
@@ -22,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kdf-21.12.3.tar.xz",
-                    "sha256": "a786e6f8f9aa64a240db6438254edbc0847037ed052289bb7757cd3e897f3e9d",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kdf-22.04.0.tar.xz",
+                    "sha256": "5ca5c607efece832427b50f11978fa6a4d7d2c092559e06a719cbda74fbdc0f7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
