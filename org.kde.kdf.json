@@ -6,7 +6,6 @@
     "command": "kdf",
     "rename-icon": "kdf",
     "finish-args": [
-        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
@@ -21,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kdf-22.08.1.tar.xz",
-                    "sha256": "0588f79831e26a264d040d1a98053dcc52961ec60b2d0feb2587c12b1ac5f15c",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kdf-22.08.2.tar.xz",
+                    "sha256": "0c704302807ddd3fe20c20f075abe9fcdadadb941bb7b83049bf821265dabfc2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
