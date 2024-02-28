@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kdf-23.08.5.tar.xz",
-                    "sha256": "aa8eb884096ba1671ffc7ab10bfabed873ad72229d3486c0e6426832aaea177f",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kdf-24.02.0.tar.xz",
+                    "sha256": "bc9f6b128b86d66ed9c118e774649040a6342fb767b327dce21f54b8adccc34f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
