@@ -13,6 +13,10 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+    "cleanup": [
+        "/lib/plugins",
+        "/share/qloggin-categories6"
+    ],
     "modules": [
         {
             "name": "kdf",
