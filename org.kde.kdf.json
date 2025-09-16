@@ -6,12 +6,12 @@
     "command": "kdf",
     "rename-icon": "kdf",
     "finish-args": [
-        "--share=ipc",
-        "--socket=fallback-x11",
-        "--socket=wayland",
+        "--device=all",
         "--filesystem=/media",
         "--filesystem=/run/media",
-        "--device=all"
+        "--share=ipc",
+        "--socket=fallback-x11",
+        "--socket=wayland"
     ],
     "modules": [
         {
