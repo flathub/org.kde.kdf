@@ -15,7 +15,8 @@
     ],
     "cleanup": [
         "/lib/plugins",
-        "/share/qloggin-categories6"
+        "/share/doc",
+        "/share/qlogging-categories6"
     ],
     "modules": [
         {
